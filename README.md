@@ -1,5 +1,6 @@
 <H1 align="center"> AGENTE CAÇADOR DE TESOUROS </H1>
 
+<img  align="left" width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/1cabde6f-f985-40a7-bfc4-346b11ead340" />
 
 <p align="left">  Mini projeto em python desenvolvido para a disciplina de IA, que consiste em um agente explorador inteligente capaz de percorrer um ambiente bidimensional, representado por uma matriz, com o objetivo de encontrar um tesouro escondido. O ambiente contém diferentes tipos de elementos, como terrenos livres, poços, obstáculos e indicadores de proximidade ao tesouro. </p>
 
